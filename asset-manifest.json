@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/itunes-restapi/static/css/main.bdcb1e06.chunk.css",
+    "main.js": "/itunes-restapi/static/js/main.d7a772d9.chunk.js",
+    "main.js.map": "/itunes-restapi/static/js/main.d7a772d9.chunk.js.map",
+    "runtime-main.js": "/itunes-restapi/static/js/runtime-main.89634524.js",
+    "runtime-main.js.map": "/itunes-restapi/static/js/runtime-main.89634524.js.map",
+    "static/js/2.dbba3fbb.chunk.js": "/itunes-restapi/static/js/2.dbba3fbb.chunk.js",
+    "static/js/2.dbba3fbb.chunk.js.map": "/itunes-restapi/static/js/2.dbba3fbb.chunk.js.map",
+    "index.html": "/itunes-restapi/index.html",
+    "precache-manifest.1dfdde7fd39d973079e8a8fe5c6c7861.js": "/itunes-restapi/precache-manifest.1dfdde7fd39d973079e8a8fe5c6c7861.js",
+    "service-worker.js": "/itunes-restapi/service-worker.js",
+    "static/css/main.bdcb1e06.chunk.css.map": "/itunes-restapi/static/css/main.bdcb1e06.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89634524.js",
+    "static/js/2.dbba3fbb.chunk.js",
+    "static/css/main.bdcb1e06.chunk.css",
+    "static/js/main.d7a772d9.chunk.js"
+  ]
+}
