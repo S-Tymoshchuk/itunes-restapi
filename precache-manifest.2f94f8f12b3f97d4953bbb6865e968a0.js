@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a081f6c4db87ba5bff0b84a0d461253f",
+    "revision": "a358c5f538af6a8d0e26736907dfa4bb",
     "url": "/itunes-restapi/index.html"
   },
   {
-    "revision": "dc618b18470b022018d9",
+    "revision": "b5db44d984802df5279b",
     "url": "/itunes-restapi/static/css/main.bdcb1e06.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/itunes-restapi/static/js/2.dbba3fbb.chunk.js"
   },
   {
-    "revision": "dc618b18470b022018d9",
-    "url": "/itunes-restapi/static/js/main.d7a772d9.chunk.js"
+    "revision": "b5db44d984802df5279b",
+    "url": "/itunes-restapi/static/js/main.8039fc0c.chunk.js"
   },
   {
     "revision": "174382e4b631718a96ab",
