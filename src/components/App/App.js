@@ -6,20 +6,13 @@ import {queryApi} from "../Api/Api";
 
 
 const App = () => {
-    const [query, setQuery] = useState(' ');
     const [data, setData] = useState([]);
     const onSubmit = (value) => {
-        setQuery(value);
-    };
-
-    useEffect(() => {
-        queryApi.getQuery(query)
-            .then(response => {
-                setData(response.data.results);
+        queryApi.getQuery(value)
+            .then(res => {
+                setData(res.data.results)
             })
-
-    }, [query]);
-
+    };
 
     return (
         <div>
